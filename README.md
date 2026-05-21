@@ -91,7 +91,7 @@ This project explores what drives flight ticket prices on Indian domestic routes
 >
 > To add: take a screenshot of your Power BI report → save as `dashboard_preview.png` → upload to the repo and replace this section with:
 > ```
-> ![Dashboard Preview](dashboard_preview.png)
+> ![Dashboard Preview](Dashboard_Preview.png)
 > ```
 
 ---
